@@ -1,4 +1,4 @@
-package Mother.StartingPoint;
+package com.gmfb.Mother;
 
 /*
  * Copyright 2001-2005 The Apache Software Foundation.
